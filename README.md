@@ -9,7 +9,7 @@ and powerful AI features in a modern, responsive interface.
 
 ---
 
-![Homepage](./frontend.png)
+![Homepage](./maxresdefault.jpg)
 
 ---
 
