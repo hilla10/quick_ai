@@ -1,4 +1,4 @@
-# ⚡ Quick AI
+# ⚡ Quick AI – Full-Stack AI SaaS Platform
 
 Quick AI is a full-stack AI SaaS platform that offers content generation, image editing, and resume analysis.
 Built with React, Node.js, Clerk, Stripe, and Neon PostgreSQL, it delivers secure authentication, subscription billing,
